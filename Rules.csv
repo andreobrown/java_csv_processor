@@ -1,0 +1,7 @@
+Rule Name,Matching Fields
+Programming Services,Name=Programming Services
+Hourly Programming Services,Name=Programming Services:Type=Hourly Payment
+VMware Flat Rate Services in Australian Dollars,Name=VMware Services:Type=Flat Rate:Currency=AUD
+Debits,Amount=Debit
+Credits,Amount=Credit
+Programming Services Debits,Name=Programming Services:Amount=Debit
